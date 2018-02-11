@@ -4,7 +4,7 @@ const request = require('request');
 const rp = require('request-promise');
 const cheerio = require('cheerio');
 
-const RecordMessage = require('../recordmessage');
+//const RecordMessage = require('../recordmessage');
 const help = require('./help.json');
 //const Settings = require(process.argv.slice(2)[0] == null ? '../settings.json' : ('../' + process.argv.slice(2)[0]));
 

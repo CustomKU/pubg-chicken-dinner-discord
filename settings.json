@@ -1,9 +1,9 @@
 {
-	"token": "MzY2NjQ2MzM5MDYyNDY0NTEy.DU9c9w.klOM8Wdy3AgA0h5VGhDhbUYxnuU",
-	"username": "K-24",
+	"token": "NDEyMjkxNjE5NDg0ODYwNDIz.DWIIGQ.RHJxhH8D9Cw_l5NUj2GZu2PjpAU",
+	"username": "test bot",
 	"prefix": "=",
 	"statusmsg": "Command: =help",
-	"welcomeChannel": "407164363254923266",
+	"welcomeChannel": "412293860354424832",
 	"signupChannel": "407164363254923266",
 	"findPlayerChannel": "407209674795122688",
 	"ignoreChannels": [
