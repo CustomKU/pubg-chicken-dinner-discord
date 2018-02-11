@@ -1,0 +1,6 @@
+{
+	"pubg": "=pubg : 순위가 가장 높은 서버의 전적을 확인합니다.\n=pubg <nickname> : <nickname>의 순위가 가장 높은 서버 서버의 전적을 확인합니다.",
+    "pubgall": "=pubgall : krjp, as, kakao 서버의 전적을 확인합니다.\n=pubgall <nickname> : <nickname>의 krjp, as, kakao 서버의 전적을 확인합니다.",
+    "status": "=status : 배틀그라운드 서버 상태를 확인합니다.",
+    "download": "downloadasdfasfd"
+}

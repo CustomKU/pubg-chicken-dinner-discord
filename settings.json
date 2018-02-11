@@ -1,0 +1,30 @@
+{
+	"token": "MzY2NjQ2MzM5MDYyNDY0NTEy.DU9c9w.klOM8Wdy3AgA0h5VGhDhbUYxnuU",
+	"username": "K-24",
+	"prefix": "=",
+	"statusmsg": "Command: =help",
+	"welcomeChannel": "407164363254923266",
+	"signupChannel": "407164363254923266",
+	"findPlayerChannel": "407209674795122688",
+	"ignoreChannels": [
+		"407164363254923266",
+		"332129785692160002",
+		"397362412128305152",
+		"407209674795122688",
+		"338737175564779530",
+		"407183379558301696"
+	],
+	"role": {
+		"member": "345154107935424512",
+		"expert": "332128272890462208",
+		"legend": "384173048581980172"
+	},
+	"recordMessage": {
+		"delete": "407162349875888128",
+		"update": "407162349875888128"
+	},
+	"emoji": {
+		"in" : "<:in:407164698392526850>",
+		"out" : "<:out:407164708911841280>"
+	}
+}
