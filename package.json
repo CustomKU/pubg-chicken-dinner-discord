@@ -1,0 +1,30 @@
+{
+	"name": "PUBG-discord-bot",
+	"version": "1.0.0",
+	"description": "PUBG Discord Bot",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/0226daniel/PUBG-discord-bot.git"
+	},
+	"author": "Kimjisub (0226daniel@gmail.com)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/0226daniel/PUBG-discord-bot/issues"
+	},
+	"homepage": "https://github.com/0226daniel/PUBG-discord-bot#readme",
+	"dependencies": {
+		"async": "^2.6.0",
+		"cheerio": "^1.0.0-rc.2",
+		"colors": "^1.1.2",
+		"discord.js": "^11.3.0",
+		"jquery": "^3.3.1",
+		"moment": "^2.20.1",
+		"nodemon": "^1.14.11",
+		"request": "^2.83.0",
+		"request-promise": "^4.2.2"
+	}
+}

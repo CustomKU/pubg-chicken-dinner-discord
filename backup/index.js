@@ -3,7 +3,7 @@ const moment = require('moment');
 const colors = require('colors');
 
 const Settings = require(process.argv.slice(2)[0] == null ? './settings.json' : ('./' + process.argv.slice(2)[0]));
-const RecordMessage = require('./recordmessage');
+//const RecordMessage = require('./recordmessage');
 const CommandListener = require('./listener/commandlistener');
 const MessageListener = require('./listener/messagelistener');
 
